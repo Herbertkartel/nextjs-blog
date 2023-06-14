@@ -33,15 +33,11 @@
 
 <div align="center">
 
-![Thumbnail](./public/thumbnail.jpg)
 
 </div>
 
 ## Introduction
 
-Welcome to the GitHub repository for the
-[How to Create a Full-Stack Application with Next.js](https://www.freecodecamp.org/news/step-by-step-tutorial-for-building-your-first-full-stack-application-with-nextjs)
-tutorial!
 
 In this tutorial, I will take you through the basics of Next.js and guide you in
 creating your very first full-stack application. By the end of this tutorial,
@@ -56,7 +52,7 @@ these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git@github.com:your-username/next-fcc-familyguy.git
+git@github.com:HerbertKartel/next-fcc-familyguy.git
 ```
 
 2. Open the cloned folder in your preferred code editor, install the required
